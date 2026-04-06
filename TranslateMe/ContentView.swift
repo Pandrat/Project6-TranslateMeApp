@@ -129,7 +129,7 @@ struct ContentView: View {
                 }
                 
             }
-            .navigationTitle("TranslationMe")
+            .navigationTitle("TranslateMe")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
