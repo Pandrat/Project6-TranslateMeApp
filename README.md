@@ -4,7 +4,7 @@ Submitted by: Brianna Thelwell
 
 TranslateMe is an app that translates words, phrases and sentences
 
-Time spent: **X** hours spent in total
+Time spent: 15 hours spent in total
 
 ## Required Features
 
